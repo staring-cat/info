@@ -56,6 +56,16 @@
 			'id': 'dupe',
 			'content': '<img src="static/images/dupe.png"/>',
 			'date': '6.03.2023'
+		}, {
+			'title': 'Cat Bot Birthday!!',
+			'id': 'birthday',
+			'content': '',
+			'date': '21.4.2023'
+		}, {
+			'title': '1000 servers :insane:',
+			'id': '1000',
+			'content': '',
+			'date': '28.4.2023'
 		}
 	]
 }

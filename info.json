@@ -1,0 +1,61 @@
+{
+	"news": [
+		{
+			'title': 'Cat Bot down.',
+			'id': 'cat-bot-down',
+			'content': "Cat bots vps is down so everyone can get cattillion cats until real cat is back (db will be reset)<br><image src='/static/catbot/cat.PNG' />",
+			'date': '22.11.2022'
+		}, {
+			'title': 'Cat Bot back!',
+			'id': 'cat-bot-back',
+			'content': "Cat bot is back!1!",
+			'date': '13.12.2022'
+		}, {
+			'title': 'Cat Bot is open source!',
+			'id': 'open-source',
+			'content': 'Cat bot is now open source! <a href="https://github.com/milena-kos/cat-bot">github</a>',
+			'date': '23.12.2022'
+		}, {
+			'title': 'Custom cats!',
+			'id': 'custom-cats',
+			'content': 'Milenakos has added custom cats!<br><img src="static/images/bread.png" \><img src="static/images/phace.png" \>',
+			'date': '24.12.2022'
+		}, {
+			'title': 'A new "anticheat" has been implemented.',
+			'id': 'anticheat',
+			'content': 'Heres some people getting nerded<br><img src="static/images/haha.png"\><br><img src="static/images/haha2.png"\>',
+			'date': '6.01.2023'
+		}, {
+			'title': 'Host 3 is now down ;-;',
+			'id': 'ddos',
+			'content': 'Some guy ddossed the host and it got suspended. Db will be prob rolled back to 2 weeks ago and catbot might be back in a week.<br><img src="static/images/hahant.png"\>',
+			'date': '6.01.2023'
+		},
+		{
+			'title': 'Battle pass!',
+			'id': 'battlepass',
+			'content': 'Battle pass has been added!<br><img src="static/images/battlepass.png"\>',
+			'date': '23.01.2023'
+		}, {
+			'title': 'Voting!',
+			'id': 'voting',
+			'content': 'Top.gg voting has been added. Vote for cat bot <a href="https://top.gg/bot/966695034340663367">here</a><br><img src="/static/images/voting.png" />',
+			'date': '28.01.2023'
+		}, {
+			'title': 'Real.',
+			'id': 'real',
+			'content': '<img src="static/images/trahs.png"/>',
+			'date': '8.2.2023'
+		}, {
+			'title': 'Tax',
+			'id': 'tax',
+			'content': 'Evade some bitches.<br><img src="static/images/tax.png"/>',
+			'date': '19.02.2023'
+		}, {
+			'title': 'A dupe was found lol',
+			'id': 'dupe',
+			'content': '<img src="static/images/dupe.png"/>',
+			'date': '6.03.2023'
+		}
+	]
+}
